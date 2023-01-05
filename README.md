@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![twitter](https://img.shields.io/twitter/follow/tf?style=social)](https://twitter.com/tf)
-[![mastadon](https://img.shields.io/mastadon/follow/@tf@twit.social?style=social)](https://mastodon.social/@TF@twit.social)
+<!--[![mastadon](https://img.shields.io/mastadon/follow/@tf@twit.social?style=social)](https://mastodon.social/@TF@twit.social) -->
 
 
 <!--
